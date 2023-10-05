@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "876452124205",
+    "project_id": "fcmtest-ae54a",
+    "storage_bucket": "fcmtest-ae54a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876452124205:android:3e8253ff73714d2f730aa4",
+        "android_client_info": {
+          "package_name": "com.example.deeplink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwry-8gP7DguUYms7glrTg85brFwjeMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876452124205-05jueqhlu7cidcabilmjg8kg9bnh7e9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playGround"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876452124205:android:12a4e7ce8ecd9bae730aa4",
+        "android_client_info": {
+          "package_name": "com.example.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwry-8gP7DguUYms7glrTg85brFwjeMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876452124205-05jueqhlu7cidcabilmjg8kg9bnh7e9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playGround"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876452124205:android:872cd8486dc5ff7a730aa4",
+        "android_client_info": {
+          "package_name": "com.example.fcm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwry-8gP7DguUYms7glrTg85brFwjeMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876452124205-05jueqhlu7cidcabilmjg8kg9bnh7e9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playGround"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876452124205:android:f616e2dcf624ac03730aa4",
+        "android_client_info": {
+          "package_name": "com.example.play_ground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwry-8gP7DguUYms7glrTg85brFwjeMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876452124205-05jueqhlu7cidcabilmjg8kg9bnh7e9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playGround"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876452124205:android:eae47a2863d4a38f730aa4",
+        "android_client_info": {
+          "package_name": "com.example.untitled1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwry-8gP7DguUYms7glrTg85brFwjeMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876452124205-05jueqhlu7cidcabilmjg8kg9bnh7e9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playGround"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876452124205:android:c293f6184faa83a0730aa4",
+        "android_client_info": {
+          "package_name": "com.sketch.chain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWwry-8gP7DguUYms7glrTg85brFwjeMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876452124205-irn3lmpmba582bfbnn8lpj49aipmnkoq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "876452124205-05jueqhlu7cidcabilmjg8kg9bnh7e9m.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.playGround"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
