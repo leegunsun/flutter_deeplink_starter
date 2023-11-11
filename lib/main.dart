@@ -12,7 +12,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   // Check if you received the link via `getInitialLink` first
-  final PendingDynamicLinkData? initialLink = await FirebaseDynamicLinks.instance.getInitialLink();
+  final PendingDynamicLinkData? initialLink = await FirebaseDynamicLinks.instance.getInitialLink(); // Getx를 사용할 떄 컨트롤러의 INIT을 고려해야한다.
 
   if (initialLink != null) {
     final Uri deepLink = initialLink.link;
